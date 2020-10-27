@@ -1,4 +1,4 @@
-Submit literature review and final projects here
+Commit and push your literature review and final projects in this GitHub repo
 
 - literature review report
 - presentation slides for literature review report
